@@ -1,0 +1,82 @@
+[
+    {
+        "courseCode": "ENG 103",
+        "course": "Fundamental English",
+        "price": "100$",
+        "rating": 4.5,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91wVpQBVoTL.jpg"
+    },
+    {
+        "courseCode": "ENG 104",
+        "course": "Listening and Speaking",
+        "price": "80$",
+        "rating": 3.5,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436452035l/2376035._SX318_.jpg"
+    },
+    {
+        "courseCode": "ENG 105",
+        "course": "Writing Skills",
+        "price": "100$",
+        "rating": 4.5,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/718WeMXf0rL.jpg"
+    },
+    {
+        "courseCode": "ENG 107",
+        "course": "Reading and Discussion",
+        "price": "99$",
+        "rating": 4.5,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51+EXG1XrYL._SX397_BO1,204,203,200_.jpg"
+    },
+    {
+        "courseCode": "ENG 201",
+        "course": "Introduction Linguistics",
+        "price": "100$",
+        "rating": 3.9,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394771515l/19421597.jpg"
+    },
+    {
+        "courseCode": "ENG 250",
+        "course": "Public Speaking",
+        "price": "80$",
+        "rating": 3.5,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://m.media-amazon.com/images/I/51NGykE-N6L.jpg"
+    },
+    {
+        "courseCode": "ENG 209",
+        "course": "Business Communication",
+        "price": "120$",
+        "rating": 5,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://www.schandpublishing.com/uploads/bookimages/schand-books/11B01011.jpg"
+    },
+    {
+        "courseCode": "ENG 301",
+        "course": "Sociolinguistics",
+        "price": "70$",
+        "rating": 2.5,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328002242l/10237881.jpg"
+    },
+    {
+        "courseCode": "ENG 304",
+        "course": "Psycholinguistics",
+        "price": "95$",
+        "rating": 4.5,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347678909l/3090804.jpg"
+    },
+    {
+        "courseCode": "ENG 305",
+        "course": "Language Teaching",
+        "price": "110$",
+        "rating": 4,
+        "description": "If you want to be a fluent speaker of English in the future, you need to make it happen.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71edwi1lUHL.jpg"
+    }
+]

@@ -1,0 +1,8 @@
+/* griding container */
+.contact-container{
+
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 50px;
+}
